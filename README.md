@@ -1,2 +1,2 @@
-# Aiware
-Aiware - Self Aware Deep Learning models. 
+# AIware
+AIware - Self Aware Deep Learning models. 
